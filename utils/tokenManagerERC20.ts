@@ -1,0 +1,3 @@
+export const TokenManagerERC20 = {
+	address: "0xD2aAA00500000000000000000000000000000000"
+}
